@@ -1,4 +1,5 @@
 # CS-109-Project-Contest-The-Electoral-College-under-an-Integral-Proportional-System
+# Winner, Stanford Probability for Computer Scientists Contest
 
 # For general information on the project, please read CS109 Project.pdf
 # For contest info and results, please see http://web.stanford.edu/class/cs109/
